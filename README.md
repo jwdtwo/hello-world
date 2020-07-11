@@ -1,2 +1,3 @@
 # hello-world
 I'm learning...
+This is kind of cool and I think this will be super helpful in future management endeavors.
